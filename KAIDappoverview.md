@@ -196,4 +196,5 @@ This is not incremental improvement — this is the complete reimagining of fina
 
 ---
 
+
 *Join the DeFi revolution. Join KAI.*
